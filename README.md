@@ -1,6 +1,7 @@
-Name:
+Name: Kanakapriya Krishnakumar
 
 Compilation and Run Successful:
+ I was able to compile and run the program successfully as well as run the unit test on the program. It states that "1 test passed."
 
 Unit Test Run Successfully:
 
