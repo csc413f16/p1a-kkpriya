@@ -1,8 +1,8 @@
-Name: Kanakapriya Krishnakumar
+Name:
 
-Compilation and Run Successful: I was able to compile and run the program successfully.
+Compilation and Run Successful:
 
-Unit Test Run Successfully: I was also able to run the unit test on the program and it stated that "1 test passed."
+Unit Test Run Successfully:
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
